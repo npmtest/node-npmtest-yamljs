@@ -1,7 +1,7 @@
 # test coverage for  [yamljs (v0.2.9)](https://github.com/jeremyfa/yaml.js#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-yamljs.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-yamljs) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-yamljs.svg)](https://travis-ci.org/npmtest/node-npmtest-yamljs)
 #### Standalone JavaScript YAML 1.2 Parser & Encoder. Works under node.js and all major browsers. Also brings command line YAML/JSON conversion tools.
 
-[![NPM](https://nodei.co/npm/yamljs.png?downloads=true)](https://www.npmjs.com/package/yamljs)
+[![NPM](https://nodei.co/npm/yamljs.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/yamljs)
 
 | git-branch : | [alpha](https://github.com/npmtest/node-npmtest-yamljs/tree/alpha)|
 |--:|:--|
@@ -9,11 +9,17 @@
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-yamljs/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-yamljs/build/test-report.html)|
 | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-yamljs/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-yamljs/tree/gh-pages/build)|
 
-[![istanbul-coverage](https://npmtest.github.io/node-npmtest-yamljs/build/screenCapture.buildCustomOrg.browser.coverage.html.png)](https://npmtest.github.io/node-npmtest-yamljs/build/coverage.html/index.html)
+- [https://npmtest.github.io/node-npmtest-yamljs/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-yamljs/build/coverage.html/index.html)
 
-[![test-report](https://npmtest.github.io/node-npmtest-yamljs/build/screenCapture.buildCustomOrg.browser.%252Fhome%252Ftravis%252Fbuild%252Fnpmtest%252Fnode-npmtest-yamljs%252Ftmp%252Fbuild%252Ftest-report.html.png)](https://npmtest.github.io/node-npmtest-yamljs/build/test-report.html)
+[![istanbul-coverage](https://npmtest.github.io/node-npmtest-yamljs/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fcoverage.lib.html.png)](https://npmtest.github.io/node-npmtest-yamljs/build/coverage.html/index.html)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-yamljs/build/screenCapture.buildApidoc.browser.%252Fhome%252Ftravis%252Fbuild%252Fnpmdoc%252Fnode-npmdoc-yamljs%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-yamljs/build/apidoc.html)
+- [https://npmtest.github.io/node-npmtest-yamljs/build/test-report.html](https://npmtest.github.io/node-npmtest-yamljs/build/test-report.html)
+
+[![test-report](https://npmtest.github.io/node-npmtest-yamljs/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Ftest-report.html.png)](https://npmtest.github.io/node-npmtest-yamljs/build/test-report.html)
+
+- [https://npmdoc.github.io/node-npmdoc-yamljs/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-yamljs/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-yamljs/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-yamljs/build/apidoc.html)
 
 ![npmPackageListing](https://npmtest.github.io/node-npmtest-yamljs/build/screenCapture.npmPackageListing.svg)
 
@@ -27,8 +33,7 @@
 
 {
     "author": {
-        "name": "Jeremy Faivre",
-        "email": "contact@jeremyfa.com"
+        "name": "Jeremy Faivre"
     },
     "bin": {
         "yaml2json": "./bin/yaml2json",
@@ -64,13 +69,11 @@
     "main": "./lib/Yaml.js",
     "maintainers": [
         {
-            "name": "jeremyfa",
-            "email": "contact@jeremyfa.com"
+            "name": "jeremyfa"
         }
     ],
     "name": "yamljs",
     "optionalDependencies": {},
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git://github.com/jeremyfa/yaml.js.git"
