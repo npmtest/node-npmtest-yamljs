@@ -1,4 +1,7 @@
-# test coverage for  [yamljs (v0.2.9)](https://github.com/jeremyfa/yaml.js#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-yamljs.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-yamljs) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-yamljs.svg)](https://travis-ci.org/npmtest/node-npmtest-yamljs)
+# npmtest-yamljs
+
+#### basic test coverage for  [yamljs (v0.2.9)](https://github.com/jeremyfa/yaml.js#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-yamljs.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-yamljs) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-yamljs.svg)](https://travis-ci.org/npmtest/node-npmtest-yamljs)
+
 #### Standalone JavaScript YAML 1.2 Parser & Encoder. Works under node.js and all major browsers. Also brings command line YAML/JSON conversion tools.
 
 [![NPM](https://nodei.co/npm/yamljs.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/yamljs)
